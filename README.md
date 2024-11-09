@@ -41,8 +41,6 @@ El servidor debería estar corriendo en http://127.0.0.1:8000/.
 
 Ahora ya se puede utilizar la api Django y puedes correr el proyecto en el Front end.
 
-
-
 ### Para iniciar sesión
 Entras ala url
 Administrador: http://127.0.0.1:8000/api/v2/
