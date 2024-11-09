@@ -39,8 +39,21 @@ Ejecutamos el proyecto con el comando
 ## python manage.py runserver
 El servidor debería estar corriendo en http://127.0.0.1:8000/.
 
+### Para iniciar sesión 
 
-Luego terminar presiamos Crtl+s y luego para desactivar el entorno virtual colocamos el comando
+Cuenta Administrador
+username": admin,
+password": Admin123456
+
+Para las cuentas de usuario se encuentra el archivo dataUSer.json
+tomar el nombre de usuario y la contraseña para todos es la misma para cualquier usuario.
+Ejemplo
+username:cespinola0
+password:123456
+
+
+
+Luego terminar presiamos "Crtl + s" y luego para desactivar el entorno virtual colocamos el comando
 ## deactivate
 
 y finalmente ya podrias cerrar el proyecto.
@@ -94,7 +107,6 @@ Ejecutamos el proyecto nuevamente
 Y entramos a la Url
 http://127.0.0.1:8000/api/v2/create-multiple-users-with-activity/
 
-Entramos al archivo y quitamos el objeto Admin porque ya esta creado como superusuario, guardamos cambios
-Luego, Subimos el Archivo dataUser.json y verificamos que se hayan creado exitosamente los usuarios.
+Copiamos el codigo del Archivo dataUser.json, lo pegamos en la pagina, le damos al boton "Post" y verificamos que se hayan creado exitosamente los usuarios.
 
 
