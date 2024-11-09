@@ -39,19 +39,18 @@ Ejecutamos el proyecto con el comando
 ## python manage.py runserver
 El servidor debería estar corriendo en http://127.0.0.1:8000/.
 
-### Para iniciar sesión 
+Ahora ya se puede utilizar la api Django y puedes correr el proyecto en el Front end.
+
+
+
+### Para iniciar sesión
+Entras ala url
+Administrador: http://127.0.0.1:8000/api/v2/
+te va pedir las credenciales.
 
 Cuenta Administrador
 username": admin,
 password": Admin123456
-
-Para las cuentas de usuario se encuentra el archivo dataUSer.json
-tomar el nombre de usuario y la contraseña para todos es la misma para cualquier usuario.
-Ejemplo
-username:cespinola0
-password:123456
-
-
 
 Luego terminar presiamos "Crtl + s" y luego para desactivar el entorno virtual colocamos el comando
 ## deactivate
