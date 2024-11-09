@@ -50,6 +50,17 @@ Cuenta Administrador
 username": admin,
 password": Admin123456
 
+
+Necesitamos subir el titulo, description y logo para la vista de usuario.
+Nos dirigimos al endPoint http://127.0.0.1:8000/api/v2/landingpage/
+
+Agregamos la información
+Title:"Bienvenidos a Pulse Board"
+Logo:(Esta en el proyecto)
+Description: Pulse iniciar la prueba presione los botones de forma aleatoria.
+
+y le damos al boton "post".
+
 Luego terminar presiamos "Crtl + s" y luego para desactivar el entorno virtual colocamos el comando
 ## deactivate
 
