@@ -1,0 +1,293 @@
+{
+    "users":[
+  {
+    "username": "cespinola0",
+    "email": "rmahady0@mashable.com",
+    "password": "mL5(~}?Lz\\$",
+    "is_active": true,
+    "is_staff": true,
+    "is_superuser": false
+  },
+  {
+    "username": "ublakely1",
+    "email": "khattersley1@xing.com",
+    "password": "mL5~h}@as>$pi",
+    "is_active": true,
+    "is_staff": true,
+    "is_superuser": true
+  },
+  {
+    "username": "mtott2",
+    "email": "jrunnicles2@trellian.com",
+    "password": "lD4|'iP9\\o)a1",
+    "is_active": false,
+    "is_staff": true,
+    "is_superuser": true
+  },
+  {
+    "username": "slemary3",
+    "email": "jsollime3@google.ca",
+    "password": "vI7.|nhQ=jWo}37",
+    "is_active": false,
+    "is_staff": true,
+    "is_superuser": false
+  },
+  {
+    "username": "wbrobak4",
+    "email": "cgrundle4@vinaora.com",
+    "password": "hM3_OOz{q==FbK+P",
+    "is_active": true,
+    "is_staff": false,
+    "is_superuser": true
+  },
+  {
+    "username": "glarcher5",
+    "email": "jhogbin5@goo.gl",
+    "password": "qP8*n}purB&_R",
+    "is_active": true,
+    "is_staff": false,
+    "is_superuser": false
+  },
+  {
+    "username": "sabbotts6",
+    "email": "bdutnell6@godaddy.com",
+    "password": "xI6~>y!)",
+    "is_active": true,
+    "is_staff": false,
+    "is_superuser": true
+  },
+  {
+    "username": "rbizley7",
+    "email": "cbanyard7@alibaba.com",
+    "password": "dS6`9v`&R&zxj<",
+    "is_active": false,
+    "is_staff": false,
+    "is_superuser": true
+  },
+  {
+    "username": "cmargiotta8",
+    "email": "kbrooksby8@live.com",
+    "password": "cY7.{U0~e_|3@KMS",
+    "is_active": true,
+    "is_staff": false,
+    "is_superuser": true
+  },
+  {
+    "username": "ngetsham9",
+    "email": "jlambshine9@imgur.com",
+    "password": "vT0$GBKt!>MTc",
+    "is_active": false,
+    "is_staff": false,
+    "is_superuser": false
+  },
+  {
+    "username": "aaylotta",
+    "email": "lpocka@dell.com",
+    "password": "hE9=cq0H$",
+    "is_active": false,
+    "is_staff": true,
+    "is_superuser": false
+  },
+  {
+    "username": "wcarasb",
+    "email": "nhuberyb@umich.edu",
+    "password": "fZ9~z?NPz5hS/",
+    "is_active": true,
+    "is_staff": true,
+    "is_superuser": false
+  },
+  {
+    "username": "npurdomc",
+    "email": "dgeavenyc@google.ru",
+    "password": "wU9'`C45Qi",
+    "is_active": false,
+    "is_staff": true,
+    "is_superuser": false
+  },
+  {
+    "username": "rshotboulted",
+    "email": "afilewoodd@flickr.com",
+    "password": "kK9=kms!IK(1H",
+    "is_active": false,
+    "is_staff": true,
+    "is_superuser": true
+  },
+  {
+    "username": "vsplevingse",
+    "email": "blomasneye@fc2.com",
+    "password": "aK9\"Ofh4/hD",
+    "is_active": true,
+    "is_staff": false,
+    "is_superuser": false
+  },
+  {
+    "username": "gquiddihyf",
+    "email": "wwintringhamf@bandcamp.com",
+    "password": "pG2%NZpKpC",
+    "is_active": false,
+    "is_staff": false,
+    "is_superuser": false
+  },
+  {
+    "username": "hspeakg",
+    "email": "mseerg@mapy.cz",
+    "password": "jX7(yZqo5.}cc{M",
+    "is_active": true,
+    "is_staff": true,
+    "is_superuser": false
+  },
+  {
+    "username": "jmalpassh",
+    "email": "reastwayh@spiegel.de",
+    "password": "iH2{COH~h\\'/)Lg",
+    "is_active": true,
+    "is_staff": true,
+    "is_superuser": true
+  },
+  {
+    "username": "whanrahani",
+    "email": "jdakini@wordpress.com",
+    "password": "wW6{PtAjP",
+    "is_active": true,
+    "is_staff": true,
+    "is_superuser": false
+  },
+  {
+    "username": "dpoundsj",
+    "email": "ltruluckj@pagesperso-orange.fr",
+    "password": "rS9{p{2T\\}d6P9",
+    "is_active": true,
+    "is_staff": true,
+    "is_superuser": true
+  },
+  {
+    "username": "lskrynek",
+    "email": "cpennellsk@plala.or.jp",
+    "password": "rT0/=gVj",
+    "is_active": true,
+    "is_staff": false,
+    "is_superuser": false
+  },
+  {
+    "username": "htalbotl",
+    "email": "mrutlandl@abc.net.au",
+    "password": "tQ5`SkQ%7",
+    "is_active": true,
+    "is_staff": true,
+    "is_superuser": false
+  },
+  {
+    "username": "bspieghtm",
+    "email": "bkeniwellm@usa.gov",
+    "password": "hK7?_}G&Jw\\c",
+    "is_active": true,
+    "is_staff": false,
+    "is_superuser": true
+  },
+  {
+    "username": "dhinckleyn",
+    "email": "lbeachamn@java.com",
+    "password": "bK7\"v04IzehTA",
+    "is_active": true,
+    "is_staff": true,
+    "is_superuser": true
+  },
+  {
+    "username": "mdalligano",
+    "email": "igreenhoweo@redcross.org",
+    "password": "zN7~`\\\"~<jBb!",
+    "is_active": true,
+    "is_staff": false,
+    "is_superuser": true
+  },
+  {
+    "username": "mdudbridgep",
+    "email": "pgilvaryp@mysql.com",
+    "password": "nA1#r_c(!x<VphQ",
+    "is_active": false,
+    "is_staff": false,
+    "is_superuser": true
+  },
+  {
+    "username": "gbenchq",
+    "email": "etettq@addthis.com",
+    "password": "iN9@hr&?j",
+    "is_active": false,
+    "is_staff": true,
+    "is_superuser": true
+  },
+  {
+    "username": "bsooleyr",
+    "email": "lmangerr@bbb.org",
+    "password": "jZ6/hEI4<hQ7_",
+    "is_active": true,
+    "is_staff": false,
+    "is_superuser": false
+  },
+  {
+    "username": "wbrydies",
+    "email": "rattocs@tinypic.com",
+    "password": "kO8&'+j%7",
+    "is_active": true,
+    "is_staff": false,
+    "is_superuser": false
+  },
+  {
+    "username": "btrahearnt",
+    "email": "bmaltmant@princeton.edu",
+    "password": "zW8|55qgmc\\i&6kl",
+    "is_active": true,
+    "is_staff": false,
+    "is_superuser": false
+  },
+  {
+    "username": "yglowachau",
+    "email": "ssuerou@cargocollective.com",
+    "password": "xR0@,EU2>dI/`0#.",
+    "is_active": true,
+    "is_staff": false,
+    "is_superuser": false
+  },
+  {
+    "username": "tbrimblecombev",
+    "email": "jtitchenerv@cnet.com",
+    "password": "oJ9)v>p{Vw8JQ",
+    "is_active": true,
+    "is_staff": false,
+    "is_superuser": false
+  },
+  {
+    "username": "hedmondsonw",
+    "email": "ssparyw@gravatar.com",
+    "password": "eB1=J@5mn",
+    "is_active": false,
+    "is_staff": false,
+    "is_superuser": false
+  },
+  {
+    "username": "rbromellx",
+    "email": "dgiraldezx@arizona.edu",
+    "password": "yC1\\ZwpfZ1/",
+    "is_active": false,
+    "is_staff": false,
+    "is_superuser": true
+  },
+  {
+    "username": "llewingtony",
+    "email": "rrosiey@quantcast.com",
+    "password": "sG0#\\bofv5*//6#t",
+    "is_active": false,
+    "is_staff": true,
+    "is_superuser": true
+  },
+  {
+    "username": "bweightz",
+    "email": "shinemoorz@hexun.com",
+    "password": "jH6\"4I19SS_&$g{",
+    "is_active": false,
+    "is_staff": true,
+    "is_superuser": false
+  }
+]
+
+}
